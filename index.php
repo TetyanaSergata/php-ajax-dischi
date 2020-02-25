@@ -16,7 +16,11 @@ include __DIR__ . '/server.php';
   <body>
     <!-- Header -->
     <header>
-
+      <div class="header_container">
+        <div class="header-top">
+          <img src="img/logo_spotify.png" alt="Logo Spotify">
+        </div>
+      </div>
     </header>
     <!-- /Header -->
     <!-- Main -->
@@ -35,6 +39,7 @@ include __DIR__ . '/server.php';
                 <span>
                   <?php echo $cd['author']; ?>
                 </span>
+                <br>
                 <span>
                   <?php echo $cd['year']; ?>
                 </span>
