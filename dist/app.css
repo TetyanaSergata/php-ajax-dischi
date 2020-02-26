@@ -60,3 +60,7 @@ main .box_text h3 {
   margin: 5px;
 }
 
+main .box_text span {
+  color: #888888;
+}
+
