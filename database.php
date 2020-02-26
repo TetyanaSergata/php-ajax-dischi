@@ -60,9 +60,8 @@
       'year' => 1995,
       'poster' => 'https://images-na.ssl-images-amazon.com/images/I/81UsU658UVL._SL1425_.jpg'
     ]
-  ]
+  ];
 
   header('Content-Type: application/json');
-
   echo json_encode($databaseCd);
 ?>
