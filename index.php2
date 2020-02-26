@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <!-- CSS SAS -->
+    <link rel="stylesheet" href="dist/app.css">
+    <title>Ajax-Dischi</title>
+  </head>
+  <body>
+
+
+
+
+
+    <!-- Script -->
+    <script src="dist/app.js" charset="utf-8"></script>
+  </body>
+</html>

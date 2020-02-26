@@ -1,5 +1,5 @@
 <?php
-include __DIR__ . '/server.php';
+include __DIR__ . '/database.php';
  // var_dump($databaseCd);
 ?>
 
@@ -11,7 +11,7 @@ include __DIR__ . '/server.php';
     <script src="https://ajax.googleapis.com/ajax/libs/d3js/5.15.0/d3.min.js"></script>
     <!-- CSS SAS -->
     <link rel="stylesheet" href="dist/app.css">
-    <title>Ajax-Dischi</title>
+    <title>Php-Dischi</title>
   </head>
   <body>
     <!-- Header -->
