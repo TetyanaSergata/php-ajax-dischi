@@ -15819,6 +15819,7 @@ var Handlebars = __webpack_require__(/*! handlebars */ "./node_modules/handlebar
 
 $(document).ready(function () {
   alert('ciao');
+  $.ajax({});
 });
 
 /***/ }),
